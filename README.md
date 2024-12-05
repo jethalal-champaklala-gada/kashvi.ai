@@ -1,2 +1,2 @@
 # kashvi.ai
-A simple chatbot that uses OpenAI's GPT API
+A copywriting-focused chatbot powered by OpenAI's GPT
